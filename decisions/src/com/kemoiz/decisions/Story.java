@@ -228,7 +228,7 @@ public class Story {
 			case "whatyoudo":
 				text(15);
 				break;
-			case "whoyouare":
+			case "whoareyou":
 				if (level == 2) {
 				} else {
 					text(13);
